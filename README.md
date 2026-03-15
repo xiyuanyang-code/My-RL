@@ -2,6 +2,6 @@
 
 ## Courses
 
-- CS234 RL: Reinforcement Learning
-- CS 285: Deep Reinforcement Learning
+- CS234: Reinforcement Learning
+- CS285: Deep Reinforcement Learning
 
